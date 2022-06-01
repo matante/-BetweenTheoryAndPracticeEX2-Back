@@ -19,8 +19,8 @@ First make sure you have the following applications:
 
 ### after this, go to `settings.py` file and under `DATABASES` (line 83) 
 
-**make sure the name, user and password are matching to the ones in your local machine 
-**
+**make sure the name, user and password are matching to the ones in your local machine **
+
 In the project directory, you can run:
 ### `npm install`
 ### `npm start`
