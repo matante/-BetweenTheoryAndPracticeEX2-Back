@@ -1,4 +1,4 @@
-# Django exercise
+# Django + PostgreSQL exercise
 
 ## Authors
 Matan Tenenboim matante@edu.hac.ac.il
