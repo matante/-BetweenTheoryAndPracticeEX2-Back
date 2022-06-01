@@ -11,7 +11,6 @@ import re
 
 from django.core.files.storage import default_storage
 
-
 # Create your views here.
 
 
